@@ -10,6 +10,10 @@
   padding: 16px;
 }
 
+.card:hover {
+  background: #e8e8ec;
+}
+
 img {
   height: 150px;
   padding: 10px;
