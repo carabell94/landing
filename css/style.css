@@ -1,0 +1,41 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Import Components */
+@import url('components/banner.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+/* Utilities */
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+body{
+  background: rgb(240,244,247);
+  color: rgb (240, 240,240);
+  font-size: 15px;
+  font-family: 'arvo', serif;
+}
+
+h1{
+  font-family: 'arvo', serif;
+  color: black;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  font-weight: bolder;
+  padding-top: 40px;
+}

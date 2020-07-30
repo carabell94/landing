@@ -1,0 +1,35 @@
+.container {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  box-shadow: 0 0 8px;
+  padding: 16px;
+}
+
+img {
+  height: 150px;
+  padding: 10px;
+  align-items: center;
+
+}
+
+h3 {
+  text-align: center;
+
+}
+
+.main-meals > p {
+  text-align: center;
+}
+
+.drinks > p {
+  text-align: center;
+}
+
+.snacks > p {
+  text-align: center;
+}
