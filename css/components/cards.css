@@ -8,10 +8,12 @@
 .card {
   box-shadow: 0 0 8px;
   padding: 16px;
+  transition: 0.3s;
 }
 
 .card:hover {
   background: #e8e8ec;
+  transform: scale(1.1);
 }
 
 img {
